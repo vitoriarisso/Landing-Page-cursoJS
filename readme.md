@@ -1,0 +1,1 @@
+Olá, esse projeto é uma Landing Page em Html e Css, feita junto com o professor Luiz Otavio no curso de JavaScript.
